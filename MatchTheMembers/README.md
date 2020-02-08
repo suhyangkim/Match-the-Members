@@ -10,3 +10,13 @@ The purpose of this app is to understand the basics of Xcode and also have an in
 - User has access to a stats screen where they are able to view their longest streak and results of the last three questions (if they exist)
 
 
+## Start Screen
+![MDB Match the Members Start Screen](https://github.com/suhyangkim/Match-the-Members/blob/master/MatchTheMembers/Screen%20Shot%202020-02-07%20at%207.27.17%20PM.png)
+
+## Game Screen
+![MDB Match the Members Game Screen](https://github.com/suhyangkim/Match-the-Members/blob/master/MatchTheMembers/Screen%20Shot%202020-02-07%20at%207.27.35%20PM.png)
+
+## Stats Screen
+![MDB Match the Members Stats Screen](https://github.com/suhyangkim/Match-the-Members/blob/master/MatchTheMembers/Screen%20Shot%202020-02-07%20at%207.29.12%20PM.png)
+
+
